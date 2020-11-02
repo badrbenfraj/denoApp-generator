@@ -1,0 +1,27 @@
+{
+  "name": "generator-denoApp",
+  "version": "1.0.0",
+  "description": "deno generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Badredine BENFRAJ",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:badrbenfraj/denoApp-generator.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrbenfraj/denoApp-generator/issues"
+  },
+  "homepage": "https://github.com/badrbenfraj/denoApp-generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^4.12.0",
+    "yosay": "^2.0.2"
+  }
+}
